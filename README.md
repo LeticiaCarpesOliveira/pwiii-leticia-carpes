@@ -1,2 +1,2 @@
 # pwiii-leticia-carpes
-Aula de programação web III com o professor João Silles
+Aula de Programação Web III com o Professor João Siles
